@@ -1,4 +1,8 @@
-print("ID?")
+
+-- DRONE CODE (can be used on Wireless Turtle)+
+-- pastebin get 9e0RM4a0 RC_Drone
+print("My Drone ID IS: " .. os.getComputerID())
+print("Computer ID?")
 ID = tonumber(read())
 x = 45
 y = 45
